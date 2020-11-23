@@ -1,0 +1,16 @@
+base:
+  css:
+    theme:
+      assets/css/lib/normalize.min.css: {}
+      #assets/css/lib/bootstrap.min.css: {}
+      assets/css/lib/animate.min.css: {}
+      assets/css/style.css: {}
+  js:
+    assets/js/lib/bootstrap.min.js: {}
+    assets/js/lib/angular.min.js: {}
+    assets/js/lib/sha256.js: {}
+    assets/js/app.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupal
