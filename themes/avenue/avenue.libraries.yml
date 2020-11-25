@@ -5,6 +5,8 @@ base:
       #assets/css/lib/bootstrap.min.css: {}
       assets/css/lib/animate.min.css: {}
       assets/css/style.css: {}
+      assets/css/app.css: {}
+      assets/css/partials/header.css: {}
   js:
     assets/js/lib/bootstrap.min.js: {}
     assets/js/lib/angular.min.js: {}

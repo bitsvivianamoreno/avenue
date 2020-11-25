@@ -1,3 +1,30 @@
-.nabvar {
+.navbar {
   background-color: #000000;
+}
+
+.header {
+  background-color: #333333;
+  justify-content: space-between;
+  color: #ffffff;
+  align-items: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.j-between {
+  justify-content: space-between;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.m-auto {
+  margin: 0 auto;
+}
+
+.white {
+  color: #ffffff;
 }

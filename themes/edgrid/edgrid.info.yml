@@ -1,0 +1,29 @@
+name: EDgrid
+type: theme
+description: Theme based in EDgrid framework by EDteam
+package: EDgrid
+core: 8.x
+version: 8.x-2.0-alpha
+libraries:
+  - edgrid/global-styling
+ 
+base theme: false
+
+regions:
+  page_top: Page top
+  header: Header
+  banner: Banner
+  help: Help
+  sidebar_first: Sidebar first
+  content: Content
+  highlighted: Highlighted
+  sidebar_second: Sidebar second
+  featured_first: Featured first
+  featured_second: Featured second
+  featured_third: Featured third
+  footer_first: Footer first
+  footer_second: Footer second
+  footer_third: Footer third
+  footer_fourth: Footer fourth
+  footer: Footer
+  page_bottom: Page bottom

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d13c1c5-6146-438b-8d7c-45490ff9b93b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/block--copyrigh.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/block--promotions.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/block--redes.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/field--text-with-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--information.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--lookbook.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--why-buy-from-us.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--your-account.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/header/field--block-content--body--basic.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/header/menu--main.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/layout/region.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/navigation/block--system-menu-block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/partials/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/partials/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/downloadMobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/01_GANAR_SUBASTA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/02_PAGO_EXITOSO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/03_REGISTRO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/04_SUBASTA_DISPONIBLE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/05_CONTRASEÑA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/06_MAYOR_OFERTA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/emails/07_SEGUNDA_OFERTA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/fondo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/fondo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/hash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/logo_aguila.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/logo_egeDesktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/logo_egeMobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/logo_hashtags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/pago-puja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/step_5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/steps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/avenue.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/avenue.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/avenue.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/avenue.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/layout/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/layout/page.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/navigation/menu.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/navigation/menu.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/include_paths.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/include_paths.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-vendor-hardening" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kjwrsQkYfZ1IfeHog7nZSiy3sH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/themes/avenue/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/avenue/templates/footer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/avenue/templates/footer" />
+      <recent name="$PROJECT_DIR$/themes/avenue/templates/header" />
+      <recent name="$PROJECT_DIR$/themes/avenue/templates/navigation" />
+      <recent name="$PROJECT_DIR$/themes/avenue/templates/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/avenue/templates/footer" />
+      <recent name="$PROJECT_DIR$/themes/avenue/assets/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/themes/avenue/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="sass" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/themes/avenue/gulpfile.js</gulpfile>
+      <tasks>
+        <task>sass</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.sass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d13c1c5-6146-438b-8d7c-45490ff9b93b" name="Default Changelist" comment="" />
+      <created>1606227515292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606227515292</updated>
+      <workItem from="1606227522278" duration="13602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="162" key="GridCell.Tab.0.bottom" timestamp="1606310027098">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606310027098" />
+    <state width="1878" height="162" key="GridCell.Tab.0.center" timestamp="1606310027086">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606310027086" />
+    <state width="1878" height="162" key="GridCell.Tab.0.left" timestamp="1606310027084">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606310027084" />
+    <state width="1878" height="162" key="GridCell.Tab.0.right" timestamp="1606310027093">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606310027093" />
+  </component>
+</project>

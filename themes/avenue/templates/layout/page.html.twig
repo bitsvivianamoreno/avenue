@@ -1,30 +1,36 @@
-<div class="layout-container">
+<div class="full">
 
-  <header role="banner">
+  <header role="banner" class="full d-flex header">
     {{ page.header }}
   </header>
 
-  {{ page.primary_menu }}
-  {{ page.secondary_menu }}
+  <section>
+    <div class="d-flex j-between">
+      <div>
+        {{ page.logo }}
+      </div>
 
-  {{ page.breadcrumb }}
+      <div class="d-flex">
+        {{ page.banner }}
+      </div>
+    </div>
 
-  {{ page.highlighted }}
-
-  {{ page.help }}
+    <div>
+      {{ page.content_banner }}
+    </div>
+  </section>
 
   <main role="main">
-    <a id="main-content" tabindex="-1"></a>
-
-    <div class="layout-content">
-    sssss
+    <div class="full">
       {{ page.content }}
     </div>
   </main>
 
   {% if page.footer %}
-    <footer role="contentinfo">
-      {{ page.footer }}
+    <footer role="contentinfo" class="full p-relative bg-gray-light">
+      <div class="ed-container j-between">
+        {{ page.footer }}
+      </div>
     </footer>
   {% endif %}
 

@@ -5,10 +5,14 @@ description: Theme avenue
 package: Custom
 # core: 8.x
 # version: VERSION
+base theme: edgrid
 libraries:
   - avenue/base
 regions:
   header: Header
+  logo: Logo
+  banner: Banner
+  content_banner: Content Banner
   #logo_header: Logo header
   #menu_header: Menu header
   #session_header: Session Header

@@ -1,0 +1,39 @@
+.menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.field-content {
+  color: #0a65aa;
+  word-wrap: break-word; }
+
+.d-block {
+  display: block; }
+
+.w-100 {
+  width: 100%; }
+
+.w-48 {
+  width: 48%; }
+
+.bg-blue {
+  background-color: #00ffff; }
+
+.bg-gray {
+  background-color: #333333; }
+
+.block-copyright {
+  position: absolute;
+  width: 100%;
+  bottom: -52px;
+  left: 0;
+  background-color: #000000;
+  color: #ffffff; }
+
+.copy-right ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between; }
