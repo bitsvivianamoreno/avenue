@@ -87,6 +87,17 @@ a {
   position: relative;
 }
 
+/*colors*/
+.c-gray-light {
+  color: #777777;
+}
+
+/**/
+.bg-gray {
+  background-color: #333333;
+}
+
+
 .bg-gray-light {
   background-color: #cdcdcd;
 }

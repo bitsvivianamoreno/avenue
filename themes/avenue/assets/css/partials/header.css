@@ -3,10 +3,33 @@
 }
 
 .header {
-  background-color: #333333;
   justify-content: space-between;
-  color: #ffffff;
+  font-size: 13px;
+  line-height: 21px;
+  color: #777777;
+  font-weight: 400;
+  font-family: "Montserrat";
   align-items: center;
+}
+
+.menu-header a {
+  color: #777777;
+  line-height: 47px;
+  width: 127px;
+  margin-left: 20px;
+  display: block;
+}
+
+.menu-header:last-child {
+  background-color: #00c8c8;
+}
+
+.menu-header:last-child a {
+  color: #ffffff;
+  text-align: center;
+  background-image: url('../../img/down.png');
+  background-repeat: no-repeat;
+  background-position-y: center;
 }
 
 .d-flex {

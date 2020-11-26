@@ -11,6 +11,14 @@
   <ul class="d-flex">
       {% endif %}
       {% for item in items %}
+        {%
+          set classes = [
+          'menu-header',
+          item.is_expanded ? 'menu-header--expanded',
+          item.is_collapsed ? 'menu-header--collapsed',
+          item.in_active_trail ? 'menu-header--active-trail',
+        ]
+        %}
         <li{{ item.attributes.addClass(classes) }}>
             {{ link(item.title, item.url) }}
             {% if item.below %}
