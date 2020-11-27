@@ -7,6 +7,7 @@ base:
       assets/css/style.css: {}
       assets/css/app.css: {}
       assets/css/partials/header.css: {}
+      assets/css/partials/footer.css: {}
   js:
     assets/js/lib/bootstrap.min.js: {}
     assets/js/lib/angular.min.js: {}

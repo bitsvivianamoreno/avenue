@@ -1,34 +1,10 @@
-@font-face {
-    font-family: 'FuturaStd-Condensed';
-    src: url(../fonts/FuturaStd-Condensed.otf);
-    font-display: swap;
-    font-weight: 300;
-}
-
-@font-face {
-    font-family: 'FuturaStd-CondensedExtraBd';
-    src: url(../fonts/FuturaStd-CondensedExtraBd.otf);
-    font-display: swap;
-}
-
 * {
     transition: all 0.5s ease-out;
 }
 
-html,
 body {
-    width: 100%;
-    height: 100%;
-}
-
-body {
-    background-color: #fff;
-    max-width: 3000px;
-    margin: 0 auto;
-}
-
-body {
-    text-transform: uppercase;
+  text-transform: uppercase;
+  font-family: "Montserrat";
 }
 
 figure,
@@ -37,24 +13,32 @@ h1,
 h2,
 h3,
 h4 {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .cursor {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .show-block {
-    display: block !important;
+  display: block !important;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 13px;
+  line-height: 20px;
+  color: #575153;
+  font-weight: 400;
+  font-family: "Montserrat";
 }
 
 
@@ -97,7 +81,29 @@ a {
   background-color: #333333;
 }
 
-
 .bg-gray-light {
-  background-color: #cdcdcd;
+  background-color: #f8f8f8;
+}
+
+/*padding*/
+.p-60 {
+  padding: 60px;
+}
+
+.pb-10 {
+  padding-bottom: 10px;
+}
+
+pb-6 {
+  padding-bottom: 6px;
+}
+
+/**/
+.w-20 {
+  width: 20%;
+}
+
+/*text*/
+.capitalize {
+  text-transform: capitalize;
 }

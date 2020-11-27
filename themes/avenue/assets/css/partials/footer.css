@@ -1,0 +1,47 @@
+.links-footer {
+  padding: 20px 0 40px 0;
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: "Montserrat";
+  width: 180px;
+}
+
+ul li a {
+  color: #727272;
+}
+
+.banner-gray {
+  font-size: 36px;
+  letter-spacing: 2px;
+  line-height: 48px;
+  color: #ffffff;
+  font-weight: 700;
+  text-align: center;
+}
+
+#block-redes,
+#block-redes .copy-right {
+  height: 100%;
+}
+
+#block-redes .copy-right div {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#block-copyrigh .copy-right {
+  width: 65%;
+  margin: 0 auto;
+  padding: 10px;
+  font-weight: 400;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+
+#block-copyrigh .copy-right li {
+  display: flex;
+  padding: 0px 10px 0px 18px;
+  color: #999999;
+}

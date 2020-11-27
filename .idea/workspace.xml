@@ -20,21 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d13c1c5-6146-438b-8d7c-45490ff9b93b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/avenue/assets/css/partials/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/header/block--avenue-search.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/header/input--submit.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/avenue/templates/navigation/menu--menu-banner.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/partials/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/partials/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/partials/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/partials/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/avenue/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/avenue/assets/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/img/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/avenue/assets/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/assets/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/header/menu--main.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/header/menu--main.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/avenue.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/avenue.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/footer/block--promotions.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/block--promotions.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--information.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--information.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--lookbook.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--lookbook.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--why-buy-from-us.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--why-buy-from-us.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--your-account.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/footer/menu--your-account.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/avenue/templates/layout/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/avenue/templates/layout/page.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +194,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606227515292</updated>
       <workItem from="1606227522278" duration="16460000" />
-      <workItem from="1606394236215" duration="7374000" />
+      <workItem from="1606394236215" duration="11253000" />
     </task>
     <servers />
   </component>
@@ -217,25 +214,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1606406638441">
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1606409488334">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606406638441" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606409488334" />
     <state width="1878" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606316373664" />
-    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1606406638439">
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1606409488333">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606406638439" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606409488333" />
     <state width="1878" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606316373660" />
-    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1606406638439">
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1606409488328">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606406638439" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606409488328" />
     <state width="1878" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606316373634" />
-    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1606406638440">
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1606409488333">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606406638440" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1606409488333" />
     <state width="1878" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1606316373661" />
   </component>
 </project>

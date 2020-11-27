@@ -1,6 +1,6 @@
 {% import _self as menus %}
 
-<div>
+<div class="links-footer capitalize">
 
   <div>
     <div>
@@ -15,7 +15,7 @@
             <ul>
           {% endif %}
           {% for item in items %}
-            <li{{ item.attributes }}>
+            <li{{ item.attributes }} class="pb-6">
               {{ link(item.title, item.url) }}
               {% if item.below %}
                 {{ menus.menu_links(item.below, attributes, menu_level + 1) }}
